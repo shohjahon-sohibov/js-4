@@ -1,0 +1,13 @@
+ body {
+  background-color: red;
+  background-image: url("https://media0.giphy.com/media/229vavhXUoYnQwUO4C/giphy.gif?cid=ecf05e47a1c3ka8c7d0u13bkqtosqwyyvs439f8596xjjupa&rid=giphy.gif&ct=g");
+  background-size: cover;
+
+ }
+
+ .result {
+   font-size: 30px;
+   display: flex;
+  justify-content: center;
+  font-weight: bolder;
+}
